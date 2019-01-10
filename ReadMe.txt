@@ -2,6 +2,7 @@ Images:
 
 The Webpage: https://imgur.com/a/WuhyTiT   
 Email notifications: https://imgur.com/a/5LEtc2L  
+Bookmark the address to the "Simple Page" for quick access, thus avoiding the temptation of notifications/guilds/party/quests etc.
 
 How to use:
 ----------------
@@ -44,7 +45,7 @@ Benefits:
 ---------
 1. Works on low end/mobile browsers. 
 2. Can work from inside email clients.
-3. Does not require logging in.
+3. Bookmark the "simple page" for quick access. Does not require logging in.
 4. For Digital addicts: Those who prefer not to be distracted by guilds and chats.
 5. For Digital addicts: Works for those who have blocked all apps. Can use the email to mark todos.
 6. When habitica website is blocked in workplace, but gmail is allowed.
