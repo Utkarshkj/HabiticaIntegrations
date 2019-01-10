@@ -3,8 +3,8 @@ var habToken = "12345678-abcd-abcd-abcd-123456789099"; //"HABITICA-TOKEN-IN-QUOT
 var webScript = 'https://script.google.com/macros/s/1234567890asdfgghjkll/dev' //WebApp script after publishing.
 var emailID = "user@gmail.com";  //Your emailID
 
-var skillName = "toolsOfTrade" // The skill name as provided in the tutorial.
-var skillMP = 25 // The mana required for casting the skill. Use skillMP = 5000 if not using this function.
+var skillName = "toolsOfTrade"; // The skill name as provided in the tutorial.
+var skillMP = 5000; // The mana required for casting the skill. Use skillMP = 5000 if not using this function.
 
 
 
