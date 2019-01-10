@@ -1,3 +1,8 @@
+Images: 
+
+The Webpage: https://imgur.com/a/WuhyTiT   
+Email notifications: https://imgur.com/a/5LEtc2L  
+
 How to use:
 ----------------
 1. Go to google script page. Create a new Project.
