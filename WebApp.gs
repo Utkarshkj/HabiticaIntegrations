@@ -207,21 +207,13 @@ function todoAsEmail() {
   }
   
   // Purging old emails
-  // For details, refer http://labnol.org/?p=27605
-  
-  
-  var search = "HabiticaTasksMail older_than:1d is:unread"
+ 
+  var search = "HabiticaTasksMail older_than:1d label:inbox"; // is:unread" 
   
   var threads = GmailApp.search(search, 0, 100);
   
   for (var i=0; i<threads.length; i++) {
-    var messages = GmailApp.getMessagesForThread(threads[i]);
-    for (var j=0; j<messages.length; j++) {
-      var email = messages[j];       
-      email.markRead();
-  //          email.moveToTrash();
-      
-    }
+    threads[i].moveToArchive();
   }
 }
 
